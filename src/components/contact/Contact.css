@@ -123,3 +123,9 @@ button {
     margin-top: 10px;
   }
 }
+
+@media screen and (max-width: 900px) {
+  .c-title {
+    font-size: 35px;
+  }
+}
