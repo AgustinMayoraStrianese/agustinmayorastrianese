@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://AgustinMayoraStrianese.github.io/agustinmayorastrianese",
+  "homepage": "http://agustinmayorastrianesedev.tk",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@testing-library/jest-dom": "^5.16.2",
