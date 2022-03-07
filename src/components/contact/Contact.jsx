@@ -3,8 +3,9 @@ import Phone from "../../img/phone.png";
 import Email from "../../img/email.png";
 import Address from "../../img/address.png";
 import emailjs from "@emailjs/browser";
-import { useContext, useRef, useState } from "react/cjs/react.development";
+
 import ThemeContext from "../../context/ThemeContext";
+import { useContext, useRef, useState } from "react";
 
 const Contact = () => {
   const formRef = useRef();
