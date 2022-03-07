@@ -1,10 +1,9 @@
-import { useContext } from "react/cjs/react.development";
+import { useContext } from "react";
 import About from "./components/about/About.jsx";
 import Contact from "./components/contact/Contact.jsx";
 import Intro from "./components/intro/Intro.jsx";
 import ProyectList from "./components/proyectsList/ProyectList.jsx";
 import Toggle from "./components/toggle/Toggle.jsx";
-
 import ThemeContext from "./context/ThemeContext.js";
 
 const App = () => {
